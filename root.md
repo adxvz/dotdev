@@ -2,7 +2,7 @@
 id: xwvthxtqaf7bwmgjsvsn3lw
 title: Root
 desc: ""
-updated: 1732578274302
+updated: 1732580072926
 created: 1732576970719
 ---
 
@@ -18,7 +18,7 @@ This is the root of your dendron vault. If you decide to publish your entire vau
 This section contains useful links to related resources.
 
 - Understand the Linux booting process
-- Understand systemd
+- Understand systemd.
 - Install and Configure web servers (Apache, Nginx, Tomcat, etc..) and learn how web servers work.
 - Learn how Linux processes work.
 - Learn to setup HTTP proxies.
@@ -34,11 +34,8 @@ This section contains useful links to related resources.
 - Setup and Database and understand its configurations and management. "https://devopscube.com/install-postgresql-on-ubuntu/" PostgreSQL Setup
 - Break something and learn to troubleshoot.
 
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
 - [Home Page](https://wiki.dendron.so/)
 - [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
 
 ## Learn how infra components work
 
